@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PrabhnoorSingh122999
+- 👋 Hi, I’m Prabhnoor Singh
 - 👀 I’m interested in ... Web Development
 - 🌱 I’m currently learning ... JavaScript 
 - 💞️ I’m looking to collaborate on ...
